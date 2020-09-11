@@ -1,0 +1,12 @@
+{
+    "welcome" : "Bienvenido {}",
+    "btnAccept" : "Aceptar",
+    "workingOnIt" : "Función no disponible. Estamos trabajando en ello.",
+
+    "noApiKeyDetected" : "Se necesita una API Key para acceder a este contenido.",
+    "howToGetAnAPIKey" : "¿Cómo obtengo mi API Key?",
+    "insertAPIKey" : "Ingrese su API Key aquí.",
+    "saveAPIKey" : "Guardar API Key",
+    "appBarGW2MyKey" : "Mis API Keys",
+    "apiKeyNeeded" : "No puede estar vacío."
+}
