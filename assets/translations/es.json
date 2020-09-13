@@ -1,12 +1,15 @@
 {
     "welcome" : "Bienvenido {}",
     "btnAccept" : "Aceptar",
-    "workingOnIt" : "Función no disponible. Estamos trabajando en ello.",
+    "btnCancel" : "Cancelar",
+    "workingOnIt" : "No disponible. Estamos trabajando en ello.",
 
     "noApiKeyDetected" : "Se necesita una API Key para acceder a este contenido.",
     "howToGetAnAPIKey" : "¿Cómo obtengo mi API Key?",
     "insertAPIKey" : "Ingrese su API Key aquí.",
     "saveAPIKey" : "Guardar API Key",
     "appBarGW2MyKey" : "Mis API Keys",
-    "apiKeyNeeded" : "No puede estar vacío."
+    "apiKeyNeeded" : "No puede estar vacío.",
+    "apiKeyHasBeenSaved" : "Su API Key ha sido guardada.",
+    "myAPIKeysEmptyMessage" : "No hay API Keys guardadas."
 }

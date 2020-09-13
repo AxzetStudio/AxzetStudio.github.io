@@ -1,6 +1,7 @@
 {
     "welcome" : "Welcome {}",
     "btnAccept" : "Accept",
+    "btnCancel" : "Cancel",
     "workingOnIt" : "Not available. We're working on it.",
 
     "noApiKeyDetected" : "An API Key is required for this content.",
@@ -8,5 +9,7 @@
     "insertAPIKey" : "Enter your API Key here.",
     "saveAPIKey" : "Save API Key",
     "appBarGW2MyKey" : "My API Keys",
-    "apiKeyNeeded" : "API Key cannot be empty."
+    "apiKeyNeeded" : "API Key cannot be empty.",
+    "apiKeyHasBeenSaved" : "Your API Key has been saved.",
+    "myAPIKeysEmptyMessage" : "There is no API Keys saved."
 }
